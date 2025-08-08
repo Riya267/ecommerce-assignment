@@ -4,4 +4,4 @@ The project follows a **modular, feature-based folder structure**. Each UI compo
 
 ## 📱 Responsiveness Considerations
 
-The UI is built with a **mobile-first design philosophy**, ensuring a smooth experience on small devices. For layout, a **responsive CSS grid** is used.
+The UI is built with a **mobile-first design**, ensuring a smooth experience on small devices. For layout, a **responsive CSS grid** is used.
